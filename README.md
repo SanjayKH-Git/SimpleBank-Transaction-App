@@ -11,8 +11,6 @@ A Simple Bank Transaction App using **C#.Net** Form Based Desktop Application wi
 ---
 ***step 1 :***  Setup Visual Studio IDE with C#.NET Environment
 ---
-![](Screen_Shots/c#_logo.png)
----
 ***step 2 :***  Open Visual Studio & Create a New Form Based Application
 ---
 ![](Screen_Shots/NewApp.png)
@@ -22,8 +20,22 @@ A Simple Bank Transaction App using **C#.Net** Form Based Desktop Application wi
 ![](Screen_Shots/Design_Window.png)
 ---
 ***step 4 :***  Create a Database [Table] in inbuilt MS-SQl Server Database (LocalBank)
-            - Insert Data to all Columns
-
+            - Insert Data to all Columns           
+---
++ Initial Database 
+![](Screen_Shots/Initial_DB.png)
+---
+***step 5 :*** Copy the Connection String to Your Code [Form1.cs]
+---
+```C#
+        #Your Connection String Will be Different
+        static string con_str = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Sanjay-PC\\source\\repos\\Sanjay_C#_Lab\\Bank Transaction\\Bank Transaction\\LocalBankDB.mdf;Integrated Security=True";
+        SqlConnection conn=new SqlConnection(con_str);
+        SqlCommand cmd;
+```
+---
+***step 6:*** 
+---
 
 
 
