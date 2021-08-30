@@ -200,7 +200,7 @@ namespace Bank_Transaction
 ---
 **Checking Balance After Transaction**
 ---
-![](Screen_Shots/Checking_Balance_After_Transaction.png)
+![](Screen_Shots/Checking_Balance After_Transaction.png)
 ---
 **Invalid Login Attempt**
 ---
