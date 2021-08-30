@@ -19,7 +19,7 @@ A Simple Bank Transaction App using **C#.Net** Form Based Desktop Application wi
 ---
 ![](Screen_Shots/Design_Window.png)
 ---
-***step 4 :***  Create a Database [Table] in inbuilt MS-SQL Server Database (LocalBank)
+**step 4 :**  Create a Database [Table] in inbuilt MS-SQL Server Database (LocalBank)
             - Insert Data to all Columns           
 ---
 ![](Screen_Shots/Initial_DB.png)
@@ -179,6 +179,36 @@ namespace Bank_Transaction
     }
 }
 ```
+---
+## Running Application [ F5 ]
+---
+**Login Page**
+---
+![](Screen_Shots/Login_Page.png)
+---
+**Checking Balance in Transaction Window [Check Balance Button]**
+---
+![](Screen_Shots/Checking_Bank_Balance.png)
+---
+**Transaction after Clicking [Send Money Button]**
+---
+![](Screen_Shots/Transaction_Window.png)
+---
+**Transaction Message**
+---
+![](Screen_Shots/Transaction_Successfull_Message.png)
+---
+**Checking Balance After Transaction**
+---
+![](Screen_Shots/Checking_Balance After_Transaction.png)
+---
+**Invalid Login Attempt**
+---
+![](Screen_Shots/UnSuccessfull_Login_Attempt.png)
+![](Screen_Shots/Invalid_Login.png)
+---
+
+
 
 
 
