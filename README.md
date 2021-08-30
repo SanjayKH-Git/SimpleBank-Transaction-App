@@ -193,9 +193,9 @@ namespace Bank_Transaction
 **Transaction after Clicking [Send Money Button]**
 ---
 ![](Screen_Shots/Transaction_Window.png)
----
+
 **Transaction Message**
----
+
 ![](Screen_Shots/Transaction_Successfull_Message.png)
 ---
 **Checking Balance After Transaction**
@@ -207,7 +207,10 @@ namespace Bank_Transaction
 ![](Screen_Shots/UnSuccessfull_Login_Attempt.png)
 ![](Screen_Shots/Invalid_Login.png)
 ---
-
+**MS-SQL DataBase After Transactions**
+---
+![](Screen_Shots/![](Screen_Shots/MS-SQL_DataBase_After_Transactions.png)
+---
 
 
 
