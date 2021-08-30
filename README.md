@@ -200,7 +200,7 @@ namespace Bank_Transaction
 ---
 **Checking Balance After Transaction**
 ---
-![](Screen_Shots/Checking_Balance After_Transaction.png)
+![](Screen_Shots/Checking_Balance_After_Transaction.png)
 ---
 **Invalid Login Attempt**
 ---
@@ -209,7 +209,7 @@ namespace Bank_Transaction
 ---
 **MS-SQL DataBase After Transactions**
 ---
-![](Screen_Shots/![](Screen_Shots/MS-SQL_DataBase_After_Transactions.png)
+![](Screen_Shots/![](Screen_Shots/MS_SQL_DataBase_After_Transactions.png)
 ---
 
 
