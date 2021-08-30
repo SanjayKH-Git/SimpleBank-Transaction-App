@@ -7,24 +7,24 @@ A Simple Bank Transaction App using **C#.Net** Form Based Desktop Application wi
 - **C#.NET**
 - **MS-SQL Server DB**
 ---
-### How to Build Simple Bank Transaction App?
+*** How to Build Simple Bank Transaction App?***
 ---
 ### step 1 :  Setup Visual Studio IDE with C#.NET Environment
 ---
-***step 2 :***  Open Visual Studio & Create a New Form Based Application
+###step 2 :  Open Visual Studio & Create a New Form Based Application
 ---
 ![](Screen_Shots/NewApp.png)
 ---
-***step 3 :***  Design Application Form Window (User Interface)
+### step 3 :  Design Application Form Window (User Interface)
 ---
 ![](Screen_Shots/Design_Window.png)
 ---
-**step 4 :**  Create a Database [Table] in inbuilt MS-SQL Server Database (LocalBank)
+### step 4 :  Create a Database [Table] in inbuilt MS-SQL Server Database (LocalBank)
             - Insert Data to all Columns           
 ---
 ![](Screen_Shots/Initial_DB.png)
 ---
-***step 5 :*** Copy the Connection String to Your Code [Form1.cs]
+### step 5 : Copy the Connection String to Your Code [Form1.cs]
 ---
 ```C#
         #Your Connection String Will be Different
@@ -182,15 +182,15 @@ namespace Bank_Transaction
 ---
 ## Running Application [ F5 ]
 ---
-**Login Page**
+### Login Page
 ---
 ![](Screen_Shots/Login_Page.png)
 ---
-**Checking Balance in Transaction Window [Check Balance Button]**
+## Checking Balance in Transaction Window [Check Balance Button]
 ---
 ![](Screen_Shots/Checking_Bank_Balance.png)
 ---
-**Transaction after Clicking [Send Money Button]**
+### Transaction after Clicking [Send Money Button]
 ---
 ![](Screen_Shots/Transaction_Window.png)
 
@@ -198,16 +198,16 @@ namespace Bank_Transaction
 
 ![](Screen_Shots/Transaction_Successfull_Message.png)
 ---
-**Checking Balance After Transaction**
+### Checking Balance After Transaction
 ---
 ![](Screen_Shots/Checking_Balance_After_Transaction.png)
 ---
-**Invalid Login Attempt**
+### Invalid Login Attempt
 ---
 ![](Screen_Shots/UnSuccessfull_Login_Attempt.png)
 ![](Screen_Shots/Invalid_Login.png)
 ---
-**MS-SQL DataBase After Transactions**
+### MS-SQL DataBase After Transactions 
 ---
 ![](Screen_Shots/MS_SQL_DataBase_After_Transactions.png)
 ---
