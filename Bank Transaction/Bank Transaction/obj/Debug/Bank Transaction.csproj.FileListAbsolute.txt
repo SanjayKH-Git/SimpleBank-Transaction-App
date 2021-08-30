@@ -1,0 +1,15 @@
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Bank Transaction\Bank Transaction\bin\Debug\Bank Transaction.exe.config
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Bank Transaction\Bank Transaction\bin\Debug\Bank Transaction.exe
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Bank Transaction\Bank Transaction\bin\Debug\Bank Transaction.pdb
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Bank Transaction\Bank Transaction\obj\Debug\Bank Transaction.csprojAssemblyReference.cache
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Bank Transaction\Bank Transaction\obj\Debug\Bank_Transaction.Form1.resources
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Bank Transaction\Bank Transaction\obj\Debug\Bank_Transaction.Properties.Resources.resources
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Bank Transaction\Bank Transaction\obj\Debug\Bank Transaction.csproj.GenerateResource.cache
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Bank Transaction\Bank Transaction\obj\Debug\Bank Transaction.exe
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Bank Transaction\Bank Transaction\obj\Debug\Bank Transaction.pdb
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Bank Transaction\Bank Transaction\bin\Debug\LocalBankDB.mdf
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Bank Transaction\Bank Transaction\bin\Debug\LocalBankDB_log.ldf
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Bank Transaction\Bank Transaction\bin\Debug\Bank Transaction.exe.manifest
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Bank Transaction\Bank Transaction\bin\Debug\Bank Transaction.application
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Bank Transaction\Bank Transaction\obj\Debug\Bank Transaction.exe.manifest
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Bank Transaction\Bank Transaction\obj\Debug\Bank Transaction.application
