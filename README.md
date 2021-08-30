@@ -7,11 +7,11 @@ A Simple Bank Transaction App using **C#.Net** Form Based Desktop Application wi
 - **C#.NET**
 - **MS-SQL Server DB**
 ---
-*** How to Build Simple Bank Transaction App?***
+***How to Build Simple Bank Transaction App?***
 ---
 ### step 1 :  Setup Visual Studio IDE with C#.NET Environment
 ---
-###step 2 :  Open Visual Studio & Create a New Form Based Application
+### step 2 :  Open Visual Studio & Create a New Form Based Application
 ---
 ![](Screen_Shots/NewApp.png)
 ---
