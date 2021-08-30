@@ -33,7 +33,7 @@ A Simple Bank Transaction App using **C#.Net** Form Based Desktop Application wi
         SqlCommand cmd;
 ```
 ---
-***step 6:*** c#[Backend] Code
+### step 6: C# [Backend] Code
 ---
 ```c#
 using System;
