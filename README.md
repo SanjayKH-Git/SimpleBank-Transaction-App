@@ -22,7 +22,6 @@ A Simple Bank Transaction App using **C#.Net** Form Based Desktop Application wi
 ***step 4 :***  Create a Database [Table] in inbuilt MS-SQl Server Database (LocalBank)
             - Insert Data to all Columns           
 ---
-+ Initial Database 
 ![](Screen_Shots/Initial_DB.png)
 ---
 ***step 5 :*** Copy the Connection String to Your Code [Form1.cs]
